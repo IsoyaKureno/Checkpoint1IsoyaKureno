@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Checkpoint1IsoyaKureno</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="ecole">Ecole</string>
+    <string name="langage">Langage étudié</string>
+    <string name="buttonEnvoyer">Envoyer</string>
+</resources>
